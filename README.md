@@ -16,3 +16,6 @@ where $p$ and $q$ are prime numbers. We will use two registers of qubits. The fi
 4. Measuring the first $n$ qubits. 
 
 After the measurement outcomes are determined, we will need to do additional classical post-processing in order to determine the factors
+
+
+Reference: Qiskit Summer School 
