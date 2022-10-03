@@ -1,5 +1,5 @@
 # Shor-s-Algorithm-
-Implementation of Shor's Algorithm to factor a number. 
+Implementation of Shor's Algorithm to factor a number using Qiskit. 
 
 Shor's algorithm can be used to factor numbers $N$ that are products of the form 
 
